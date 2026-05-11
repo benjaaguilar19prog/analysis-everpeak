@@ -1,4 +1,4 @@
-# EverPeak Retail Analysis – Sprint 6
+# EverPeak Retail Analysis – Sprint 7
 
 Este repositorio contiene el análisis realizado durante el Sprint 7 del caso EverPeak–SilverBasket.
 
